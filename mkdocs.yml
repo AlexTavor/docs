@@ -9,6 +9,7 @@ nav:
       - Incorporate a component to Dialogflow with fulfillment: tutorials/plug_coco_component_inside_dialogflow_conversation
       - Add component to you ManyChat flow: tutorials/manychat1.md
       - Calling a CoCo from Dialogflow(externally): tutorials/use_a_component_with_dialogflow_external
+      - Build a modular bot on wordpress: tutorials/wp_cocobot.md
   - Concepts:
 #      - Agents, Goals, State, and Actions: concepts/goals.md
       - Conversational Component: concepts/convcomp.md
@@ -18,7 +19,7 @@ nav:
   - Vendors:
     - Vendor Toolkits: connectors.md
     - Publishing guidelines: vendor-guidelines.md
-  - API Specs: api.md
+  - ⬅️ API Specs: https://cocohub.ai/docs
   - ⬅️ CoCoHub: https://cocohub.ai/
   - ⬅️ About AI: https://a-i.com/
 
@@ -47,3 +48,5 @@ google_analytics: ['UA-143011310-6', 'docs.conversationalcomponents.com']
 
 extra_javascript:
   - js_extra/luckyo.js
+  - js_extra/gitter.js
+  - https://sidecar.gitter.im/dist/sidecar.v1.js
